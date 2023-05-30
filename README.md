@@ -3,5 +3,6 @@
 
 1) Run --- node generateKeyPair.js
 2) Run --- npm install
-3) Establish a MongoDB connection on your local machine or mongoDB Altal
-4) Use PostMan to test the functionality.
+3) Creat .env file for environment variable setup (ex: DB_STRING_URL)
+4) Establish a MongoDB connection on your local machine or mongoDB Altal
+5) Use PostMan to test the functionality.
